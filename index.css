@@ -44,4 +44,5 @@ body {
 a.logo {
   color: var(--primary);
   font-weight: bold;
+  font-size: 1.8rem;
 }
