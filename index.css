@@ -22,6 +22,10 @@ ul {
   display: none;
 }
 
+.wrapper {
+  margin: 2.6em;
+}
+
 body {
   font-family: "Nunito", sans-serif;
   margin: 0;
