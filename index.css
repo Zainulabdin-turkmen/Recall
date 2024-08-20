@@ -49,4 +49,5 @@ a.logo {
 
 header ul {
   display: flex;
+  gap: 2.2rem;
 }
