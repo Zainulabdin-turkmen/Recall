@@ -51,3 +51,23 @@ header ul {
   display: flex;
   gap: 2.2rem;
 }
+
+header ul li a {
+  color: black;
+}
+
+a.active {
+  text-decoration: underline;
+}
+
+/* Hero section */
+
+section.hero {
+  text-align: center;
+}
+
+h1 {
+  font-size: 3.2rem;
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+}
