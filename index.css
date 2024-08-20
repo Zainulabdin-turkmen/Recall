@@ -1,3 +1,7 @@
+:root {
+  --primary: #7e00fd;
+}
+
 html {
   font-size: 62.5%;
 }
@@ -35,4 +39,8 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+a.logo {
+  color: var(--primary);
 }
