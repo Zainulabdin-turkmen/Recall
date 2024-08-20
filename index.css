@@ -16,3 +16,8 @@ ul {
   margin: 0;
   padding: 0;
 }
+
+.header-act,
+.arrow {
+  display: none;
+}
