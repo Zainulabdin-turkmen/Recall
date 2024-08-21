@@ -95,4 +95,5 @@ p.subhead {
 section.feature {
   background-color: var(--primary);
   color: white;
+  transform: skewY(12deg) translate(-8em);
 }
