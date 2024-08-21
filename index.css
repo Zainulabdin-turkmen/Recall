@@ -94,4 +94,5 @@ p.subhead {
 
 section.feature {
   background-color: var(--primary);
+  color: white;
 }
