@@ -89,3 +89,9 @@ p.subhead {
   position: relative;
   z-index: 2;
 }
+
+/* features section */
+
+section.feature {
+  background-color: var(--primary);
+}
