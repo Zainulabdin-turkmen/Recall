@@ -92,8 +92,12 @@ p.subhead {
 
 /* features section */
 
-section.feature {
+section.features {
   background-color: var(--primary);
   color: white;
-  transform: skewY(12deg) translate(-8em);
+  transform: skewY(12deg) translateY(-8em);
+}
+
+section.features .wrapper {
+  transform: skewY(-12deg);
 }
