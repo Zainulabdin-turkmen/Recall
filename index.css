@@ -101,3 +101,15 @@ section.features {
 section.features .wrapper {
   transform: skewY(-12deg);
 }
+
+section.features .wrapper ul {
+  display: flex;
+  flex-direction: column;
+  gap: 3em;
+  padding: 5em 0 10em;
+}
+
+section.features .wrapper svg {
+  width: 3.5rem;
+  margin-left: -0.15rem;
+}
