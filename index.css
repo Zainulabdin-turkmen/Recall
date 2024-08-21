@@ -78,4 +78,5 @@ p.subhead {
 
 .cta-btns {
   display: flex;
+  gap: 1em;
 }
