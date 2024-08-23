@@ -161,3 +161,11 @@ ul.social-nav svg {
 }
 
 /* footer section */
+
+footer {
+  background: #ededed;
+}
+
+footer .wrapper {
+  margin-bottom: 0;
+}
