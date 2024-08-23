@@ -140,3 +140,7 @@ h2 {
   object-fit: cover;
   margin-bottom: 3em;
 }
+
+.author strong {
+  font-size: 2rem;
+}
