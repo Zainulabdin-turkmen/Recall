@@ -121,10 +121,14 @@ section.features .wrapper strong {
   gap: 0.2em;
 }
 
-/* testimonials section */
+/* Testimonials section */
 
 h2 {
   font-size: 2.8rem;
   font-family: "Playfair Display", serif;
   font-weight: 300;
+}
+
+.author-pic {
+  width: 100%;
 }
