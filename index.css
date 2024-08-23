@@ -187,3 +187,7 @@ nav.secondary-nav ul {
   display: flex;
   gap: 2em;
 }
+
+nav.footer-nav ul {
+  justify-content: right;
+}
