@@ -149,3 +149,13 @@ h2 {
 .author a {
   color: black;
 }
+
+ul.social-nav {
+  display: flex;
+  /* gap: 1em; */
+  /* margin-top: 2em; */
+}
+
+.active-1 {
+  /* background-color: black; */
+}
