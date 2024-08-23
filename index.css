@@ -156,6 +156,6 @@ ul.social-nav {
   margin-top: 2em;
 }
 
-.active-1 {
-  /* background-color: black; */
+ul.social-nav svg {
+  width: 3rem;
 }
