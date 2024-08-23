@@ -153,7 +153,7 @@ h2 {
 ul.social-nav {
   display: flex;
   gap: 1em;
-  /* margin-top: 2em; */
+  margin-top: 2em;
 }
 
 .active-1 {
