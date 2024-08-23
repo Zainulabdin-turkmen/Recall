@@ -181,3 +181,9 @@ footer .wrapper {
 footer a {
   color: black;
 }
+
+nav.footer-nav ul,
+nav.secondary-nav ul {
+  display: flex;
+  gap: 2em;
+}
