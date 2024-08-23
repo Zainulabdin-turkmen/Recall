@@ -171,3 +171,9 @@ footer {
 footer .wrapper {
   margin-bottom: 0;
 }
+
+.footer-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
