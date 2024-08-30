@@ -212,6 +212,7 @@ nav.secondary-nav ul li a {
     font-size: 1.6em;
     padding: 0.5em 0.7em;
     border-radius: 3px;
+    font-weight: bold;
   }
 
   .hero .wrapper {
