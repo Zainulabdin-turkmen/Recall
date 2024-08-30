@@ -207,9 +207,10 @@ nav.secondary-nav ul li a {
 @media only screen and (min-width: 700px) {
   .header-act {
     display: block;
-    background-color: #7e00fd;
+    background-color: var(--primary);
     color: #fff;
-    padding: 1.1rem 2rem;
+    font-size: 1.6em;
+    padding: 0.5em 0.7em;
     border-radius: 3px;
   }
 
