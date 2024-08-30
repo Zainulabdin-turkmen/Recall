@@ -208,6 +208,7 @@ nav.secondary-nav ul li a {
   .header-act {
     display: block;
     background-color: #7e00fd;
+    color: #fff;
   }
 
   .hero .wrapper {
