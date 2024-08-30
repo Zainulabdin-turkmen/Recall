@@ -242,4 +242,8 @@ nav.secondary-nav ul li a {
     left: 0;
     width: 500px;
   }
+
+  .cta-btns {
+    justify-content: left;
+  }
 }
