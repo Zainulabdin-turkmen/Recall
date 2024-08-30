@@ -229,4 +229,8 @@ nav.secondary-nav ul li a {
     font-size: 5, 1em;
     line-height: 110%;
   }
+
+  .hero .right-col {
+    position: relative;
+  }
 }
