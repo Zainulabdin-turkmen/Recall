@@ -207,5 +207,6 @@ nav.secondary-nav ul li a {
 @media only screen and (min-width: 700px) {
   .hero .wrapper {
     display: flex;
+    justify-content: space-between;
   }
 }
