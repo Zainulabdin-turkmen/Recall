@@ -236,4 +236,8 @@ nav.secondary-nav ul li a {
     height: 600px;
     overflow: hidden;
   }
+
+  .phone {
+    position: absolute;
+  }
 }
