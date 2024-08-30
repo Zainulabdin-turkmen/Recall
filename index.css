@@ -202,4 +202,7 @@ nav.secondary-nav ul li a {
   font-size: 1.4em;
 }
 
-/* midai queroes-- Tablet */
+/* midia queroes-- Tablet */
+
+@media only screen and (min-width: 700px) {
+}
