@@ -209,6 +209,7 @@ nav.secondary-nav ul li a {
     display: block;
     background-color: #7e00fd;
     color: #fff;
+    padding: 1.1rem 2rem;
   }
 
   .hero .wrapper {
