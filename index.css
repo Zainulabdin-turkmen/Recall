@@ -258,5 +258,6 @@ nav.secondary-nav ul li a {
 
   section.features:before {
     content: "";
+    position: absolute;
   }
 }
