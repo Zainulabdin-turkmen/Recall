@@ -260,5 +260,6 @@ nav.secondary-nav ul li a {
     content: "";
     position: absolute;
     background: url("./asset/graphic.svg") no-repeat;
+    width: 205px;
   }
 }
