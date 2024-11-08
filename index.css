@@ -278,4 +278,8 @@ nav.secondary-nav ul li a {
   }
 
   /* testimonials section */
+
+  .testimonial-info {
+    display: flex;
+  }
 }
