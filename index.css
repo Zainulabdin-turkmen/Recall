@@ -266,10 +266,14 @@ nav.secondary-nav ul li a {
     left: 10%;
   }
 
-  section.feature .wrapper ul {
+  section.features .wrapper ul {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, 1fr);
     padding: 7em 0 12em;
+  }
+
+  section.features .wrapper ul li:last-of-type {
+    grid-column: 1/3;
   }
 }
