@@ -265,4 +265,7 @@ nav.secondary-nav ul li a {
     bottom: -30px;
     left: 10%;
   }
+
+  section.feature .wrapper ul {
+  }
 }
