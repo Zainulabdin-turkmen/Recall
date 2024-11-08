@@ -249,7 +249,14 @@ nav.secondary-nav ul li a {
 
   /* features section */
 
-  section.feature {
+  section.features {
     transform: skewY(7deg) translateY(-8em);
+  }
+  section.features .wrapper {
+    transform: skewY(-7deg);
+  }
+
+  section.features:before {
+    content: "";
   }
 }
