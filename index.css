@@ -281,5 +281,6 @@ nav.secondary-nav ul li a {
 
   .testimonial-info {
     display: flex;
+    gap: 2em;
   }
 }
