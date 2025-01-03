@@ -278,16 +278,4 @@ nav.secondary-nav ul li a {
   }
 
   /* testimonials section */
-
-  .testimonial-info {
-    display: flex;
-    gap: 2em;
-  }
-  .author-pic,
-  .author {
-    flex: 1;
-  }
-  .author-pic {
-    margin: 0;
-  }
 }
