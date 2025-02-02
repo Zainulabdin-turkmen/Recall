@@ -296,5 +296,6 @@ nav.secondary-nav ul li a {
   .author {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
   }
 }
