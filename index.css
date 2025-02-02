@@ -330,5 +330,6 @@ nav.secondary-nav ul li a {
     align-self: end;
   }
   section.features .wrapper ul li:nth-of-type(2) {
+    align-self: center;
   }
 }
