@@ -350,4 +350,8 @@ nav.secondary-nav ul li a {
   .testimonial-info {
     flex: 1;
   }
+
+  .testimonial h2 {
+    margin-top: 0;
+  }
 }
