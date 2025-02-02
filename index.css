@@ -338,5 +338,9 @@ nav.secondary-nav ul li a {
     left: 20%;
   }
 
-  /* testimonian section */
+  /* testimonials section */
+
+  .testimonial {
+    display: flex;
+  }
 }
