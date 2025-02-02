@@ -318,4 +318,8 @@ nav.secondary-nav ul li a {
   }
 
   /* features section */
+
+  section.features .wrapper ul {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
