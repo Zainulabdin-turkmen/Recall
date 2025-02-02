@@ -292,4 +292,8 @@ nav.secondary-nav ul li a {
   .author-pic {
     margin: 0;
   }
+
+  .author {
+    display: flex;
+  }
 }
